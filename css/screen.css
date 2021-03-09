@@ -13,13 +13,16 @@ h1{
     line-height: 1.1em;
 }
 body{
-  background-image: linear-gradient(to right top, #575e67, #586469, #5e6a69, #666e69, #70726c);
+  background-color: #808080; 
 }
 ul{
     list-style-type: none;
 }
 li{
     padding-bottom: .50em;
+}
+form{
+  background-color: #484848;
 }
 button{
   box-shadow:inset 0px 1px 3px 0px #91b8b3;
